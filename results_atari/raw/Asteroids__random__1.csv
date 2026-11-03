@@ -1,0 +1,2 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+random,680.0,613,game_over,False,,Asteroids,1

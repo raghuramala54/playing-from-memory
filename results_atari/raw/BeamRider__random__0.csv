@@ -1,0 +1,2 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+random,176.0,924,game_over,False,,BeamRider,0

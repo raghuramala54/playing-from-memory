@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,1800.0,2257,game_over,False,0.654058982591547,Seaquest,6
+tape_clean,1800.0,2257,game_over,False,,Seaquest,6
+sticky,1560.0,2009,game_over,False,0.6076792075158747,Seaquest,6
+tape_sticky,60.0,405,game_over,False,,Seaquest,6
+noop,1580.0,2009,game_over,False,0.6420964141008577,Seaquest,6
+tape_noop,40.0,424,game_over,False,,Seaquest,6

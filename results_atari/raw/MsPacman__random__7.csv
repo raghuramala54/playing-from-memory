@@ -1,0 +1,2 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+random,300.0,556,game_over,False,,MsPacman,7

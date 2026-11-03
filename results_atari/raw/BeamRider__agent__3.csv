@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,1796.0,2474,game_over,False,0.6436383335571747,BeamRider,3
+tape_clean,1796.0,2474,game_over,False,,BeamRider,3
+sticky,2384.0,2557,game_over,False,0.6511230607562636,BeamRider,3
+tape_sticky,572.0,1382,game_over,False,,BeamRider,3
+noop,3120.0,3324,game_over,False,0.6708639139467302,BeamRider,3
+tape_noop,440.0,954,game_over,False,,BeamRider,3

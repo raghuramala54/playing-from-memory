@@ -1,0 +1,13 @@
+### Closed-loop index: agent retention − blind-tape retention under the same perturbation (mean, 95% CI)
+
+| Group | Variant | n | No-op: agent | No-op: tape | No-op: CLI | No-op: p | Sticky: agent | Sticky: tape | Sticky: CLI | Sticky: p | No-op: p (Holm) | Sticky: p (Holm) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| v1 · trained level | all | 27 | 0.95 | 0.83 | 0.12 (0.04–0.20) | 0.01 | 0.80 | 0.65 | 0.15 (0.10–0.20) | 0.00 | 0.08 | 0.00 |
+| v2 · training levels | all | 64 | 0.99 | 0.90 | 0.09 (0.02–0.16) | 0.14 | 1.04 | 0.78 | 0.26 (0.18–0.34) | 0.00 | 0.87 | 0.00 |
+| v1 · trained level | NatureCNN | 9 | 0.83 | 0.77 | 0.06 (-0.07–0.22) | 0.44 | 0.76 | 0.59 | 0.17 (0.08–0.25) | 0.01 | 1.00 | 0.05 |
+| v1 · trained level | + SE | 9 | 1.02 | 0.88 | 0.14 (0.02–0.26) | 0.05 | 0.80 | 0.70 | 0.09 (0.02–0.18) | 0.07 | 0.44 | 0.07 |
+| v1 · trained level | + spatial attn | 9 | 0.99 | 0.84 | 0.15 (0.02–0.28) | 0.11 | 0.84 | 0.66 | 0.18 (0.09–0.27) | 0.02 | 0.77 | 0.05 |
+| v2 · training levels | Dense attn + aug | 16 | 0.96 | 0.92 | 0.04 (-0.03–0.12) | 0.27 | 0.98 | 0.82 | 0.16 (0.07–0.26) | 0.01 | 1.00 | 0.05 |
+| v2 · training levels | NatureCNN | 16 | 1.01 | 0.89 | 0.12 (-0.02–0.29) | 0.17 | 1.15 | 0.78 | 0.36 (0.18–0.60) | 0.00 | 0.87 | 0.00 |
+| v2 · training levels | NatureCNN + aug | 16 | 1.00 | 0.89 | 0.11 (-0.01–0.30) | 0.45 | 1.03 | 0.76 | 0.26 (0.11–0.43) | 0.01 | 1.00 | 0.04 |
+| v2 · training levels | Sparse attn + aug | 16 | 0.97 | 0.89 | 0.08 (-0.05–0.26) | 0.97 | 1.01 | 0.77 | 0.24 (0.09–0.42) | 0.02 | 1.00 | 0.05 |

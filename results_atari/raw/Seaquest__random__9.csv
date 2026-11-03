@@ -1,0 +1,2 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+random,120.0,577,game_over,False,,Seaquest,9

@@ -1,0 +1,13 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,0,hud_mask,219,19,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,1,hud_mask,354,38,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,2,hud_mask,495,45,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,3,hud_mask,209,21,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,0,tta,491,55,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,1,tta,490,46,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,2,tta,210,21,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,3,tta,211,20,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,0,greedy,497,53,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,1,greedy,497,53,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,2,greedy,497,53,0,0,death,
+v2_cnn_s42,v2,cnn,42,3-2,held-out levels,3,greedy,497,53,0,0,death,

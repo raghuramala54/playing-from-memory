@@ -1,0 +1,13 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,0,clean,805,103,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,1,clean,705,74,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,2,clean,693,76,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,3,clean,1416,196,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,0,tape_noop,805,108,5,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,1,tape_noop,705,87,13,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,2,tape_noop,693,104,28,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,3,tape_noop,1416,205,9,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,0,tape_sticky,842,104,0,0,replay_end,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,1,tape_sticky,722,75,0,0,replay_end,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,2,tape_sticky,524,77,0,0,replay_end,
+v2_sparse_aug_s42,v2,sparse_aug,42,1-1,training levels,3,tape_sticky,680,79,0,0,death,

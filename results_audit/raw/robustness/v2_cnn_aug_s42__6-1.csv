@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,clean,1378,145,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,clean,485,55,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,clean,1378,155,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,clean,644,60,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,noop,1378,149,5,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,noop,485,68,13,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,noop,1378,183,28,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,noop,644,69,9,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,sticky,1220,144,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,sticky,1435,164,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,sticky,643,61,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,sticky,1378,210,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,hud_freeze,1646,164,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,hud_freeze,485,55,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,hud_freeze,1378,159,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,hud_freeze,644,60,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,shift,1378,147,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,shift,1378,193,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,shift,1410,151,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,shift,645,60,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,0,replay_noop,1378,150,5,0,death,1378.0
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,1,replay_noop,1378,158,13,0,death,1378.0
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,2,replay_noop,1378,173,28,0,death,1378.0
+v2_cnn_aug_s42,v2,cnn_aug,42,6-1,training levels,3,replay_noop,1378,154,9,0,death,1378.0

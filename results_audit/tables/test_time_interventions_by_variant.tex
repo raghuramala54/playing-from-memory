@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Unseen-level score ($\times$ random) per variant and intervention}
+\label{tab:test_time_interventions_by_variant}
+\begin{tabular}{lrrrrrr}
+\toprule
+Group & Variant & Clean score & HUD hidden & Shift-ensemble (TTA) & Greedy actions & Attention switched off \\
+\midrule
+v1 $\cdot$ unseen level & NatureCNN & 0.96 & 0.88 & 0.96 & 0.67 & -- \\
+v1 $\cdot$ unseen level & + SE & 0.98 & 0.98 & 1.05 & 0.67 & -- \\
+v1 $\cdot$ unseen level & + spatial attn & 0.92 & 0.94 & 0.97 & 0.67 & 0.90 \\
+v2 $\cdot$ held-out levels & Dense attn + aug & 1.26 & 1.57 & 1.50 & 1.16 & 1.25 \\
+v2 $\cdot$ held-out levels & NatureCNN & 1.29 & 1.26 & 1.03 & 1.23 & -- \\
+v2 $\cdot$ held-out levels & NatureCNN + aug & 1.54 & 1.50 & 1.46 & 1.51 & -- \\
+v2 $\cdot$ held-out levels & Sparse attn + aug & 1.37 & 1.11 & 1.29 & 0.99 & 1.24 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,21.0,1665,game_over,False,0.6456226352102019,Pong,4
+tape_clean,21.0,1665,game_over,False,,Pong,4
+sticky,5.0,2726,game_over,False,0.5652049301753552,Pong,4
+tape_sticky,-19.0,1049,game_over,False,,Pong,4
+noop,21.0,1665,game_over,False,0.6536126434009042,Pong,4
+tape_noop,-19.0,1149,game_over,False,,Pong,4

@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,clean,884,200,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,clean,394,80,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,clean,369,69,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,clean,386,106,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,noop,723,113,5,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,noop,435,158,13,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,noop,369,97,28,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,noop,805,203,9,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,sticky,305,26,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,sticky,302,36,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,sticky,307,32,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,sticky,644,111,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,hud_freeze,882,246,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,hud_freeze,521,89,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,hud_freeze,369,69,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,hud_freeze,395,104,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,shift,304,32,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,shift,396,80,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,shift,882,216,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,shift,883,230,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,0,replay_noop,884,205,5,0,death,884.0
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,1,replay_noop,884,213,13,0,death,884.0
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,2,replay_noop,884,228,28,0,death,884.0
+v2_sparse_aug_s42,v2,sparse_aug,42,6-2,training levels,3,replay_noop,884,209,9,0,death,884.0

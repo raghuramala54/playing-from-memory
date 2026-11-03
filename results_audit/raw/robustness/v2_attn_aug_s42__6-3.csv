@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,clean,513,48,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,clean,505,47,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,clean,789,85,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,clean,682,81,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,noop,513,53,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,noop,505,60,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,noop,789,113,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,noop,892,94,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,sticky,686,78,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,sticky,280,27,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,sticky,280,27,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,sticky,510,48,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,hud_freeze,513,48,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,hud_freeze,505,47,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,hud_freeze,789,85,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,hud_freeze,771,89,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,shift,672,70,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,shift,683,71,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,shift,513,49,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,shift,451,50,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,0,replay_noop,789,90,5,0,death,789.0
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,1,replay_noop,789,98,13,0,death,789.0
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,2,replay_noop,789,113,28,0,death,789.0
+v2_attn_aug_s42,v2,attn_aug,42,6-3,training levels,3,replay_noop,789,94,9,0,death,789.0

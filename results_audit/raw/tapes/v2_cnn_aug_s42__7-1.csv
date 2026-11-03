@@ -1,0 +1,13 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,0,clean,666,73,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,1,clean,562,85,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,2,clean,1474,222,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,3,clean,398,35,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,0,tape_noop,666,77,5,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,1,tape_noop,564,99,13,0,replay_end,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,2,tape_noop,423,79,28,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,3,tape_noop,398,45,9,0,replay_end,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,0,tape_sticky,523,59,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,1,tape_sticky,373,35,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,2,tape_sticky,563,89,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,7-1,training levels,3,tape_sticky,398,35,0,0,death,

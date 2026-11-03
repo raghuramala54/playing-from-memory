@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\caption{Cross-level transfer: evaluation max x, mean $\pm$ std over seeds (multiple of the random policy); diagonal = trained and tested on the same level}
+\label{tab:transfer_matrix}
+\begin{tabular}{lrrrr}
+\toprule
+Trained on & Model & Test 1-1 & Test 1-2 & Test 1-3 \\
+\midrule
+1-1 & NatureCNN (baseline) & 910 $\pm$ 176 (1.0$\times$) & 525 $\pm$ 181 (1.0$\times$) & 382 $\pm$ 17 (1.2$\times$) \\
+1-1 & + Channel attention (SE) & 845 $\pm$ 51 (1.0$\times$) & 545 $\pm$ 137 (1.0$\times$) & 358 $\pm$ 11 (1.1$\times$) \\
+1-1 & + Spatial self-attention (ours) & 1,057 $\pm$ 30 (1.2$\times$) & 664 $\pm$ 138 (1.2$\times$) & 364 $\pm$ 26 (1.1$\times$) \\
+1-2 & NatureCNN (baseline) & 746 $\pm$ 144 (0.9$\times$) & 1,518 $\pm$ 292 (2.8$\times$) & 362 $\pm$ 10 (1.1$\times$) \\
+1-2 & + Channel attention (SE) & 808 $\pm$ 165 (0.9$\times$) & 1,016 $\pm$ 85 (1.9$\times$) & 357 $\pm$ 21 (1.1$\times$) \\
+1-2 & + Spatial self-attention (ours) & 835 $\pm$ 217 (1.0$\times$) & 1,585 $\pm$ 295 (3.0$\times$) & 345 $\pm$ 35 (1.0$\times$) \\
+1-3 & NatureCNN (baseline) & 670 $\pm$ 96 (0.8$\times$) & 292 $\pm$ 90 (0.5$\times$) & 1,087 $\pm$ 264 (3.3$\times$) \\
+1-3 & + Channel attention (SE) & 627 $\pm$ 91 (0.7$\times$) & 444 $\pm$ 38 (0.8$\times$) & 1,056 $\pm$ 239 (3.2$\times$) \\
+1-3 & + Spatial self-attention (ours) & 491 $\pm$ 86 (0.6$\times$) & 349 $\pm$ 156 (0.7$\times$) & 974 $\pm$ 330 (2.9$\times$) \\
+– & Random policy & 873 (1.0$\times$) & 537 (1.0$\times$) & 332 (1.0$\times$) \\
+\bottomrule
+\end{tabular}
+\end{table}

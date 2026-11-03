@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,clean,1550,136,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,clean,582,50,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,clean,789,81,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,clean,1860,161,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,noop,1103,99,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,noop,1794,172,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,noop,1794,191,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,noop,1575,146,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,sticky,1071,94,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,sticky,1080,94,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,sticky,1076,95,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,sticky,1773,158,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,hud_freeze,1860,160,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,hud_freeze,582,50,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,hud_freeze,789,81,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,hud_freeze,1786,161,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,shift,1995,171,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,shift,326,34,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,shift,1077,106,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,shift,704,66,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,0,replay_noop,1860,166,5,0,death,1860.0
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,1,replay_noop,859,86,13,0,death,1860.0
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,2,replay_noop,1860,189,28,0,death,1860.0
+v2_attn_aug_s42,v2,attn_aug,42,7-3,training levels,3,replay_noop,1860,170,9,0,death,1860.0

@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,2600.0,809,game_over,False,0.6739920927303129,Asteroids,9
+tape_clean,2600.0,809,game_over,False,,Asteroids,9
+sticky,3100.0,1414,game_over,False,0.633666778514596,Asteroids,9
+tape_sticky,1300.0,1375,game_over,True,,Asteroids,9
+noop,3200.0,1613,game_over,False,0.7024775799351303,Asteroids,9
+tape_noop,1300.0,1529,game_over,True,,Asteroids,9

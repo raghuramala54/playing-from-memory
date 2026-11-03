@@ -1,0 +1,20 @@
+# Install PyTorch FIRST (see README). If it is missing, stable-baselines3 pulls the default PyPI build,
+# which targets CUDA 13 and needs NVIDIA driver >= 580. Older drivers: CUDA 12.x build from pytorch.org/get-started/locally
+stable-baselines3>=2.3
+gymnasium>=0.29
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+pillow>=10.0
+ipykernel
+jupyter
+papermill>=2.4          # headless runs via run_experiments.sh
+
+# Python >= 3.13 (e.g. Kaggle): Gymnasium-based emulator, works with NumPy 2
+gym-super-mario-bros>=9.1 ; python_version >= "3.13"
+
+# Python < 3.13: legacy emulator (old gym step API, needs NumPy 1.x)
+gym-super-mario-bros<8 ; python_version < "3.13"
+nes-py<9 ; python_version < "3.13"
+gym==0.25.2 ; python_version < "3.13"
+numpy==1.26.4 ; python_version < "3.13"

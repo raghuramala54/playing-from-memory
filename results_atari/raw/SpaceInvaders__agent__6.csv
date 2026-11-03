@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,570.0,667,game_over,False,0.5927423802703548,SpaceInvaders,6
+tape_clean,570.0,667,game_over,False,,SpaceInvaders,6
+sticky,1580.0,1759,game_over,False,0.635063913841727,SpaceInvaders,6
+tape_sticky,120.0,292,game_over,False,,SpaceInvaders,6
+noop,1005.0,1135,game_over,False,0.5696450550472933,SpaceInvaders,6
+tape_noop,100.0,447,game_over,False,,SpaceInvaders,6

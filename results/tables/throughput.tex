@@ -1,0 +1,14 @@
+\begin{table}[t]
+\centering
+\caption{Training throughput (20 CPU cores, n\_envs=8)}
+\label{tab:throughput}
+\begin{tabular}{lrr}
+\toprule
+Stage & Steps/s & Hours per 1M steps \\
+\midrule
+1 env, random actions & 154.35 & 1.80 \\
+8 envs, random actions & 344.40 & 0.81 \\
+PPO iteration: collect + update on CUDA & 254.18 & 1.09 \\
+\bottomrule
+\end{tabular}
+\end{table}

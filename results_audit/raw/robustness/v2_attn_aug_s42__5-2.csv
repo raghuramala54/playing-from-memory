@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,clean,878,144,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,clean,734,117,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,clean,713,95,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,clean,953,128,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,noop,731,117,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,noop,737,84,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,noop,207,46,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,noop,213,27,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,sticky,716,94,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,sticky,455,86,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,sticky,744,181,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,sticky,1074,188,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,hud_freeze,749,112,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,hud_freeze,734,117,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,hud_freeze,587,78,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,hud_freeze,953,128,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,shift,734,103,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,shift,464,55,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,shift,882,145,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,shift,954,154,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,0,replay_noop,231,25,5,0,death,953.0
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,1,replay_noop,722,105,13,0,death,953.0
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,2,replay_noop,207,46,28,0,death,953.0
+v2_attn_aug_s42,v2,attn_aug,42,5-2,training levels,3,replay_noop,213,27,9,0,death,953.0

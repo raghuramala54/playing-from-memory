@@ -1,0 +1,12 @@
+{
+  "run": "sparse_aug_s42",
+  "variant": "sparse_aug",
+  "seed": 42,
+  "sessions": 1,
+  "timesteps": 3002368,
+  "logged_steps": 3002368,
+  "train_seconds": 9858.8,
+  "policy_params": 4432809,
+  "gamma": 0.126,
+  "train_fps": 304.5
+}

@@ -1,0 +1,13 @@
+{
+  "run": "1-2/baseline_s777",
+  "level": "1-2",
+  "variant": "baseline",
+  "seed": 777,
+  "sessions": 1,
+  "timesteps": 1003520,
+  "logged_steps": 1003520,
+  "train_seconds": 2172.0,
+  "policy_params": 4407976,
+  "gamma": null,
+  "train_fps": 462.0
+}

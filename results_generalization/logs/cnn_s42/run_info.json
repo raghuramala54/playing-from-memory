@@ -1,0 +1,12 @@
+{
+  "run": "cnn_s42",
+  "variant": "cnn",
+  "seed": 42,
+  "sessions": 1,
+  "timesteps": 3002368,
+  "logged_steps": 3002368,
+  "train_seconds": 6647.8,
+  "policy_params": 4407976,
+  "gamma": null,
+  "train_fps": 451.6
+}

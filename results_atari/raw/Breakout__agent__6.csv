@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,369.0,1819,game_over,False,0.6320525447854501,Breakout,6
+tape_clean,369.0,1819,game_over,False,,Breakout,6
+sticky,27.0,933,game_over,False,0.7269791198855987,Breakout,6
+tape_sticky,0.0,111,game_over,False,,Breakout,6
+noop,343.0,1582,game_over,False,0.6417035100118118,Breakout,6
+tape_noop,1.0,162,game_over,False,,Breakout,6

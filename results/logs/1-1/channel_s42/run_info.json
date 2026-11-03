@@ -1,0 +1,13 @@
+{
+  "run": "1-1/channel_s42",
+  "level": "1-1",
+  "variant": "channel",
+  "seed": 42,
+  "sessions": 1,
+  "timesteps": 1003520,
+  "logged_steps": 1003520,
+  "train_seconds": 2433.9,
+  "policy_params": 4408556,
+  "gamma": null,
+  "train_fps": 412.3
+}

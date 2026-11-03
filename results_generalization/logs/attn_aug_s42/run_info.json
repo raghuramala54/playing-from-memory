@@ -1,0 +1,12 @@
+{
+  "run": "attn_aug_s42",
+  "variant": "attn_aug",
+  "seed": 42,
+  "sessions": 1,
+  "timesteps": 3002368,
+  "logged_steps": 3002368,
+  "train_seconds": 9180.3,
+  "policy_params": 4424361,
+  "gamma": 0.0946,
+  "train_fps": 327.0
+}

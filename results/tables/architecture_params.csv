@@ -1,0 +1,5 @@
+Model,Block params,Total policy params,Overhead vs baseline (%),Mixes positions,Mixes channels
+NatureCNN (baseline),0,4407976,0.0,False,False
++ Channel attention (SE),580,4408556,0.013157966377308483,False,True
++ Spatial self-attention (ours),16385,4424361,0.37171255015906457,True,True
++ Pointwise MLP (capacity control),16385,4424361,0.37171255015906457,False,True

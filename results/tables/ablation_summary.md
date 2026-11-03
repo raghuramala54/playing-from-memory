@@ -1,0 +1,13 @@
+### Ablation per level (mean ± std over seeds; T = {'1-1': 2000, '1-2': 1500, '1-3': 1000}; sustained = 50-episode mean)
+
+| Level | Model | Seeds | Budget | AUC max x | Steps to sustained x ≥ T | Max x (last 100 ep) | Flag rate % (last 100 ep) | Train FPS |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1-1 | NatureCNN (baseline) | 3 | 1,003,304 | 867 ± 5 | not reached | 922 ± 51 | 0.0 ± 0.0 | 394 ± 101 |
+| 1-1 | + Channel attention (SE) | 3 | 1,003,304 | 861 ± 6 | not reached | 930 ± 66 | 0.0 ± 0.0 | 423 ± 11 |
+| 1-1 | + Spatial self-attention (ours) | 3 | 1,003,304 | 868 ± 5 | not reached | 905 ± 49 | 0.0 ± 0.0 | 416 ± 5 |
+| 1-2 | NatureCNN (baseline) | 3 | 1,003,248 | 883 ± 82 | 902,256 (1/3 seeds) | 1,406 ± 135 | 0.0 ± 0.0 | 452 ± 10 |
+| 1-2 | + Channel attention (SE) | 3 | 1,003,248 | 778 ± 27 | not reached | 1,014 ± 44 | 0.0 ± 0.0 | 453 ± 19 |
+| 1-2 | + Spatial self-attention (ours) | 3 | 1,003,248 | 876 ± 37 | 956,604 ± 55,273 (2/3 seeds) | 1,531 ± 166 | 2.0 ± 3.5 | 421 ± 9 |
+| 1-3 | NatureCNN (baseline) | 3 | 1,003,328 | 729 ± 94 | 618,448 ± 77,341 (2/3 seeds) | 1,078 ± 257 | 0.0 ± 0.0 | 460 ± 27 |
+| 1-3 | + Channel attention (SE) | 3 | 1,003,328 | 708 ± 96 | 649,404 ± 33,856 (2/3 seeds) | 1,073 ± 252 | 0.0 ± 0.0 | 479 ± 29 |
+| 1-3 | + Spatial self-attention (ours) | 3 | 1,003,328 | 649 ± 48 | 820,800 (1/3 seeds) | 962 ± 310 | 0.0 ± 0.0 | 468 ± 25 |

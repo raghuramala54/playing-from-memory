@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,16475.0,1928,game_over,False,0.2234702694656198,Qbert,9
+tape_clean,16475.0,1928,game_over,False,,Qbert,9
+sticky,4825.0,692,game_over,False,0.24838448001290475,Qbert,9
+tape_sticky,1325.0,542,game_over,False,,Qbert,9
+noop,15700.0,1814,game_over,False,0.2628729291260614,Qbert,9
+tape_noop,225.0,354,game_over,False,,Qbert,9

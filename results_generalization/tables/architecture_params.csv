@@ -1,0 +1,5 @@
+Variant,Encoder,Block,Augmentation,Block params,Total params
+NatureCNN,nature,baseline,False,0,4407976
+NatureCNN + aug,nature,baseline,True,0,4407976
+Dense attention + aug,nature,spatial,True,16385,4424361
+Sparse attention + aug (ours),nature,sparse,True,24833,4432809

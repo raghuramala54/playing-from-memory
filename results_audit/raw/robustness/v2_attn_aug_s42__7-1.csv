@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,clean,640,75,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,clean,784,99,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,clean,388,54,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,clean,722,79,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,noop,988,205,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,noop,773,110,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,noop,396,83,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,noop,434,61,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,sticky,946,135,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,sticky,722,88,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,sticky,884,123,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,sticky,418,43,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,hud_freeze,722,90,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,hud_freeze,784,99,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,hud_freeze,350,42,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,hud_freeze,977,147,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,shift,882,174,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,shift,978,137,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,shift,723,124,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,shift,1190,185,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,0,replay_noop,777,102,5,0,death,784.0
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,1,replay_noop,551,74,13,0,death,784.0
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,2,replay_noop,784,127,28,0,death,784.0
+v2_attn_aug_s42,v2,attn_aug,42,7-1,training levels,3,replay_noop,784,108,9,0,death,784.0

@@ -1,0 +1,11 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+random,random,random,0,5-2,reference,0,clean,451,102,0,0,death,
+random,random,random,0,5-2,reference,1,clean,738,199,0,0,death,
+random,random,random,0,5-2,reference,2,clean,593,136,0,0,death,
+random,random,random,0,5-2,reference,3,clean,389,132,0,0,death,
+random,random,random,0,5-2,reference,4,clean,480,101,0,0,death,
+random,random,random,0,5-2,reference,5,clean,726,140,0,0,death,
+random,random,random,0,5-2,reference,6,clean,948,268,0,0,death,
+random,random,random,0,5-2,reference,7,clean,461,93,0,0,death,
+random,random,random,0,5-2,reference,8,clean,226,50,0,0,death,
+random,random,random,0,5-2,reference,9,clean,742,177,0,0,death,

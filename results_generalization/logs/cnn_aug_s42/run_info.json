@@ -1,0 +1,12 @@
+{
+  "run": "cnn_aug_s42",
+  "variant": "cnn_aug",
+  "seed": 42,
+  "sessions": 1,
+  "timesteps": 3002368,
+  "logged_steps": 3002368,
+  "train_seconds": 7448.1,
+  "policy_params": 4407976,
+  "gamma": null,
+  "train_fps": 403.1
+}

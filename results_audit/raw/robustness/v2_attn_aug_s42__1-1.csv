@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,clean,1135,163,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,clean,833,160,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,clean,669,95,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,clean,899,130,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,noop,1135,168,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,noop,683,106,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,noop,1128,211,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,noop,669,99,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,sticky,1527,235,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,sticky,802,120,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,sticky,1433,191,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,sticky,711,76,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,hud_freeze,1524,182,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,hud_freeze,690,93,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,hud_freeze,1667,239,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,hud_freeze,1799,185,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,shift,683,86,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,shift,869,140,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,shift,1154,120,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,shift,857,149,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,0,replay_noop,1135,168,5,0,death,1135.0
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,1,replay_noop,1135,176,13,0,death,1135.0
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,2,replay_noop,1135,191,28,0,death,1135.0
+v2_attn_aug_s42,v2,attn_aug,42,1-1,training levels,3,replay_noop,1135,172,9,0,death,1135.0

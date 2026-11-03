@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,479.0,6653,game_over,False,0.6000854383141502,Enduro,2
+tape_clean,479.0,6653,game_over,False,,Enduro,2
+sticky,491.0,6653,game_over,False,0.5443194340380622,Enduro,2
+tape_sticky,0.0,3325,game_over,False,,Enduro,2
+noop,1069.0,13309,game_over,False,0.5866137294666681,Enduro,2
+tape_noop,0.0,3325,game_over,False,,Enduro,2

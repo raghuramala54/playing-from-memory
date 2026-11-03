@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{v2 models: level-explained variance vs. generalisation gap (Spearman ρ = -0.60, p = 0.40, n = 4)}
+\label{tab:probe_vs_gap}
+\begin{tabular}{lrrrrr}
+\toprule
+model & variant & seed & Level η² & Probe accuracy & Generalisation gap (train $-$ held-out score) \\
+\midrule
+v2\_attn\_aug\_s42 & attn\_aug & 42 & 0.183 & 0.898 & 0.566 \\
+v2\_cnn\_aug\_s42 & cnn\_aug & 42 & 0.184 & 0.894 & 0.069 \\
+v2\_cnn\_s42 & cnn & 42 & 0.207 & 0.889 & 0.296 \\
+v2\_sparse\_aug\_s42 & sparse\_aug & 42 & 0.179 & 0.897 & 0.523 \\
+\bottomrule
+\end{tabular}
+\end{table}

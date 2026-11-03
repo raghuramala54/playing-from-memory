@@ -1,0 +1,13 @@
+# Separate environment for Atari_CLI_Audit.ipynb (keeps the Mario environment's NumPy 1.26 / gym 0.25 pins intact).
+# Install PyTorch first (pip install torch), then: pip install -r requirements-atari.txt
+stable-baselines3>=2.4
+gymnasium>=1.0
+ale-py>=0.10
+huggingface_hub
+opencv-python-headless      # frame resizing in the Atari wrappers
+numpy
+pandas
+matplotlib
+scipy
+papermill
+ipykernel

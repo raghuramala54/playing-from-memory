@@ -1,0 +1,32 @@
+{
+  "config": {
+    "GAMES": [
+      "Pong",
+      "Breakout",
+      "SpaceInvaders",
+      "Qbert",
+      "Seaquest",
+      "BeamRider",
+      "Enduro",
+      "MsPacman",
+      "Asteroids",
+      "RoadRunner"
+    ],
+    "HF_ORG": "sb3",
+    "EPISODES": 10,
+    "MAX_STEPS": 27000,
+    "STICKY_P": 0.25,
+    "NOOP_MAX": 30,
+    "EP_SEED": 10000,
+    "MIN_TAPE_LOSS": 0.2,
+    "N_WORKERS": 12
+  },
+  "environment": {
+    "python": "3.12.3",
+    "numpy": "2.5.4",
+    "torch": "2.15.0+cpu",
+    "gymnasium": "1.4.0",
+    "ale_py": "0.12.1",
+    "stable_baselines3": "2.9.2"
+  }
+}

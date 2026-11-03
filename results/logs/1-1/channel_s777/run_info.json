@@ -1,0 +1,13 @@
+{
+  "run": "1-1/channel_s777",
+  "level": "1-1",
+  "variant": "channel",
+  "seed": 777,
+  "sessions": 1,
+  "timesteps": 1003520,
+  "logged_steps": 1003520,
+  "train_seconds": 2373.7,
+  "policy_params": 4408556,
+  "gamma": null,
+  "train_fps": 422.8
+}

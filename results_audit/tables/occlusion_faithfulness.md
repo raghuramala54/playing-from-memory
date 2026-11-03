@@ -1,0 +1,7 @@
+### Policy change (KL) when occluding the 8 most-attended, 8 random or 8 least-attended cells
+
+| Model | Models | Frames | KL top-8 attended | KL random 8 | KL least-attended 8 | Top ÷ random | Frames top > random | p (Wilcoxon, frames) | p (Holm) |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| v1 + spatial attn | 9 | 5,940 | 0.0419 | 0.0202 | 0.0216 | 2.0702 | 51% | 0.1406 | 0.1406 |
+| v2 Dense attn + aug | 1 | 660 | 0.0256 | 0.0183 | 0.0329 | 1.3972 | 44% | 0.0373 | 0.0747 |
+| v2 Sparse attn + aug | 1 | 660 | 0.0331 | 0.0149 | 0.0099 | 2.2219 | 59% | 0.0000 | 0.0000 |

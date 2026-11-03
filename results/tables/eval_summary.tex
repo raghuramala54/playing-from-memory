@@ -1,0 +1,23 @@
+\begin{table}[t]
+\centering
+\caption{Evaluation: 10 episodes per seed and level (stochastic policy); $\pm$ = std over seeds}
+\label{tab:eval_summary}
+\begin{tabular}{lrrrrrr}
+\toprule
+Level & Agent & Seeds & Episodes & Max x & Flag rate (\%) & Reward \\
+\midrule
+1-1 & NatureCNN (baseline) & 3 & 30 & 910 $\pm$ 176 & 0.0 $\pm$ 0.0 & 830 $\pm$ 170 \\
+1-1 & + Channel attention (SE) & 3 & 30 & 845 $\pm$ 51 & 0.0 $\pm$ 0.0 & 767 $\pm$ 50 \\
+1-1 & + Spatial self-attention (ours) & 3 & 30 & 1,057 $\pm$ 30 & 0.0 $\pm$ 0.0 & 974 $\pm$ 28 \\
+1-1 & Random policy & 3 & 30 & 873 $\pm$ 275 & 3.3 $\pm$ 5.8 & 715 $\pm$ 222 \\
+1-2 & NatureCNN (baseline) & 3 & 30 & 1,518 $\pm$ 292 & 0.0 $\pm$ 0.0 & 1,429 $\pm$ 286 \\
+1-2 & + Channel attention (SE) & 3 & 30 & 1,016 $\pm$ 85 & 0.0 $\pm$ 0.0 & 838 $\pm$ 179 \\
+1-2 & + Spatial self-attention (ours) & 3 & 30 & 1,585 $\pm$ 295 & 0.0 $\pm$ 0.0 & 1,470 $\pm$ 287 \\
+1-2 & Random policy & 3 & 30 & 537 $\pm$ 131 & 0.0 $\pm$ 0.0 & 403 $\pm$ 101 \\
+1-3 & NatureCNN (baseline) & 3 & 30 & 1,087 $\pm$ 264 & 0.0 $\pm$ 0.0 & 1,011 $\pm$ 260 \\
+1-3 & + Channel attention (SE) & 3 & 30 & 1,056 $\pm$ 239 & 0.0 $\pm$ 0.0 & 981 $\pm$ 235 \\
+1-3 & + Spatial self-attention (ours) & 3 & 30 & 974 $\pm$ 330 & 0.0 $\pm$ 0.0 & 900 $\pm$ 325 \\
+1-3 & Random policy & 3 & 30 & 332 $\pm$ 26 & 0.0 $\pm$ 0.0 & 265 $\pm$ 26 \\
+\bottomrule
+\end{tabular}
+\end{table}

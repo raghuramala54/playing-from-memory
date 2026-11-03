@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Policy forward latency (budget = 4 NES frames $\approx$ 66.6 ms)}
+\label{tab:inference_latency}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Model & Device & Batch & Mean (ms) & p50 (ms) & p95 (ms) & Decisions/s & Budget (ms) & Real-time \\
+\midrule
+NatureCNN (baseline) & CPU & 1 & 0.530 & 0.519 & 0.586 & 1,888.161 & 66.557 & yes \\
++ Channel attention (SE) & CPU & 1 & 0.568 & 0.565 & 0.613 & 1,760.925 & 66.557 & yes \\
++ Spatial self-attention (ours) & CPU & 1 & 0.653 & 0.650 & 0.691 & 1,530.740 & 66.557 & yes \\
+NatureCNN (baseline) & CUDA & 1 & 0.318 & 0.310 & 0.391 & 3,148.503 & 66.557 & yes \\
++ Channel attention (SE) & CUDA & 1 & 0.394 & 0.389 & 0.440 & 2,539.584 & 66.557 & yes \\
++ Spatial self-attention (ours) & CUDA & 1 & 0.470 & 0.454 & 0.547 & 2,129.450 & 66.557 & yes \\
+\bottomrule
+\end{tabular}
+\end{table}

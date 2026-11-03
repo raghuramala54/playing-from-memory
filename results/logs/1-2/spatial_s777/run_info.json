@@ -1,0 +1,13 @@
+{
+  "run": "1-2/spatial_s777",
+  "level": "1-2",
+  "variant": "spatial",
+  "seed": 777,
+  "sessions": 1,
+  "timesteps": 1003520,
+  "logged_steps": 1003520,
+  "train_seconds": 2327.4,
+  "policy_params": 4424361,
+  "gamma": -0.05106,
+  "train_fps": 431.2
+}

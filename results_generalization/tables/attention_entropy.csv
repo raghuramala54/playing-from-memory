@@ -1,0 +1,3 @@
+Variant,Level,Mean row entropy,Received-attention entropy,γ
+Dense attention + aug,2-1,0.5516734342860242,0.6995745911751786,0.0946040228009224
+Sparse attention + aug (ours),2-1,0.5239001673948879,0.6961607166860908,0.12599977850914001

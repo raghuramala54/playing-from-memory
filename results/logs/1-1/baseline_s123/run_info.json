@@ -1,0 +1,13 @@
+{
+  "run": "1-1/baseline_s123",
+  "level": "1-1",
+  "variant": "baseline",
+  "seed": 123,
+  "sessions": 1,
+  "timesteps": 1003520,
+  "logged_steps": 1003520,
+  "train_seconds": 2299.3,
+  "policy_params": 4407976,
+  "gamma": null,
+  "train_fps": 436.4
+}

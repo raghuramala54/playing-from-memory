@@ -1,0 +1,4 @@
+Stage,Steps/s,Hours per 1M steps
+"1 env, random actions",154.34851096147918,1.799679025391459
+"8 envs, random actions",344.39917436369507,0.8065576181795278
+PPO iteration: collect + update on CUDA,254.17563495532207,1.0928576133058716

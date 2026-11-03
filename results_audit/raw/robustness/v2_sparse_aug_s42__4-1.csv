@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,clean,1843,367,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,clean,1842,247,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,clean,1324,114,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,clean,1302,114,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,noop,1855,178,5,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,noop,1635,223,13,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,noop,533,77,28,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,noop,1844,188,9,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,sticky,1855,165,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,sticky,1842,242,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,sticky,1303,116,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,sticky,480,47,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,hud_freeze,1854,157,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,hud_freeze,1842,239,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,hud_freeze,1304,118,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,hud_freeze,1634,216,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,shift,469,46,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,shift,403,134,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,shift,336,30,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,shift,1856,171,0,0,death,
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,0,replay_noop,1842,196,5,0,death,1843.0
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,1,replay_noop,1842,204,13,0,death,1843.0
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,2,replay_noop,1843,395,28,0,death,1843.0
+v2_sparse_aug_s42,v2,sparse_aug,42,4-1,training levels,3,replay_noop,1842,200,9,0,death,1843.0

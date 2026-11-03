@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,clean,345,53,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,clean,313,49,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,clean,341,49,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,clean,326,48,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,noop,341,59,5,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,noop,245,39,13,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,noop,159,42,28,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,noop,409,99,9,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,sticky,343,44,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,sticky,837,163,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,sticky,341,64,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,sticky,327,28,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,hud_freeze,1066,139,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,hud_freeze,313,49,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,hud_freeze,341,49,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,hud_freeze,326,48,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,shift,1270,159,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,shift,343,72,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,shift,343,49,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,shift,342,47,0,0,death,
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,0,replay_noop,345,58,5,0,death,345.0
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,1,replay_noop,375,67,13,0,replay_end,345.0
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,2,replay_noop,159,42,28,0,death,345.0
+v2_cnn_aug_s42,v2,cnn_aug,42,8-2,training levels,3,replay_noop,335,57,9,0,death,345.0

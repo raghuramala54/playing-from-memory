@@ -1,0 +1,37 @@
+# Python environments
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Model weights (large): published separately, see README "Trained models"
+checkpoints/
+checkpoints_generalization/
+atari_models/
+train/
+*.zip
+
+# Large or regenerable intermediate files
+results_audit/raw/probe_frames.npz
+
+# Headless run logs and executed notebook copies
+runs/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.bbl
+paper/*.synctex.gz
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Paper source (kept private until the preprint is posted)
+paper/

@@ -1,0 +1,2 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+random,90.0,466,game_over,False,,SpaceInvaders,8

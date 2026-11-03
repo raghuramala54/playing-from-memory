@@ -1,0 +1,25 @@
+model,family,variant,seed,level,split,episode,condition,max_x_pos,steps,n_noop,flag_get,ended,replay_of_x
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,clean,594,109,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,clean,363,31,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,clean,821,112,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,clean,417,39,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,noop,815,111,5,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,noop,363,44,13,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,noop,821,140,28,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,noop,417,48,9,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,sticky,816,99,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,sticky,510,53,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,sticky,511,43,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,sticky,510,57,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,hud_freeze,594,109,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,hud_freeze,363,31,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,hud_freeze,514,45,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,hud_freeze,417,39,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,shift,818,84,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,shift,612,59,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,shift,779,101,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,shift,357,31,0,0,death,
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,0,replay_noop,821,117,5,0,death,821.0
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,1,replay_noop,821,125,13,0,death,821.0
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,2,replay_noop,821,140,28,0,death,821.0
+v2_attn_aug_s42,v2,attn_aug,42,3-1,training levels,3,replay_noop,821,121,9,0,death,821.0

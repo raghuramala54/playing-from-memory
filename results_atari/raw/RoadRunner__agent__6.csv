@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,1000.0,894,game_over,False,0.13302631547692062,RoadRunner,6
+tape_clean,1000.0,894,game_over,False,,RoadRunner,6
+sticky,1000.0,855,game_over,False,0.10623324226063402,RoadRunner,6
+tape_sticky,1000.0,850,game_over,False,,RoadRunner,6
+noop,900.0,899,game_over,False,0.1140362908371589,RoadRunner,6
+tape_noop,900.0,930,game_over,True,,RoadRunner,6

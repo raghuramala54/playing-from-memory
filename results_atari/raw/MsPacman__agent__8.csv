@@ -1,0 +1,7 @@
+condition,score,steps,ended,tape_ran_out,entropy,game,episode
+clean,1680.0,841,game_over,False,0.4000233585388528,MsPacman,8
+tape_clean,1680.0,841,game_over,False,,MsPacman,8
+sticky,1780.0,895,game_over,False,0.3922358000620238,MsPacman,8
+tape_sticky,1630.0,899,game_over,True,,MsPacman,8
+noop,1690.0,943,game_over,False,0.3931316292789431,MsPacman,8
+tape_noop,1180.0,881,game_over,True,,MsPacman,8
